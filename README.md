@@ -1,4 +1,4 @@
-# Semantic-Segmentation using AWS SageMaker
+# Semantic Segmentation using AWS SageMaker
 
 
 ## AWS SageMaker
