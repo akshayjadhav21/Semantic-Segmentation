@@ -31,10 +31,10 @@
 
 Image Data: https://www.robots.ox.ac.uk/~vgg/data/pets/data/images.tar.gz
 
-Groubd Truth Data: https://www.robots.ox.ac.uk/~vgg/data/pets/data/annotations.tar.gz
+Ground Truth Data: https://www.robots.ox.ac.uk/~vgg/data/pets/data/annotations.tar.gz
 
 ## References
 
-- https://docs.aws.amazon.com/sagemaker/latest/dg/semantic-segmentation.html
+https://docs.aws.amazon.com/sagemaker/latest/dg/semantic-segmentation.html
 
-- https://www.robots.ox.ac.uk/~vgg/data/pets/
+https://www.robots.ox.ac.uk/~vgg/data/pets/
