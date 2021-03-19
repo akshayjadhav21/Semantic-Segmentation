@@ -1,5 +1,6 @@
 # Semantic Segmentation using AWS SageMaker
 
+![Semantic Segmentation](https://github.com/akshayjadhav21/Semantic-Segmentation-using-AWS-SageMaker/blob/main/pet_annotations.jpeg)
 
 ## AWS SageMaker
 - Amazon SageMaker is a fully managed machine learning service. With Amazon SageMaker, data scientists and developers can quickly build and train machine learning models, and then deploy them into a production-ready hosted environment.
